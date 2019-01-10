@@ -7,7 +7,7 @@ class Dog
   
   def self.all
     binding.pry
-    @all.each 
+    
   end
   
 end
